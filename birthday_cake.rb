@@ -1,23 +1,22 @@
-=begin
-birthday_cake.rb
 
-It's your birthday! Yay! 🎂
+# birthday_cake.rb
 
-Can you debug this BirthdayCake class in time to sing happy birthday? 🎶
+# It's your birthday! Yay! 🎂
 
-Tip: Resolve the error messages before trying to make it work
+# Can you debug this BirthdayCake class in time to sing happy birthday? 🎶
 
-Expected output:
-Happy 10th Birthday!
-Birthday cake with 10 blown out candles
-Lighting candles...
-Birthday cake with 10 lit candles
-Singing happy birthday...
-🎶Happy birthday to you, happy birthday to you🎶
-Blowing out candles...
-Birthday cake with 10 blown out candles
+# Tip: Resolve the error messages before trying to make it work
 
-=end
+# Expected output:
+# Happy 10th Birthday!
+# Birthday cake with 10 blown out candles
+# Lighting candles...
+# Birthday cake with 10 lit candles
+# Singing happy birthday...
+# 🎶Happy birthday to you, happy birthday to you🎶
+# Blowing out candles...
+# Birthday cake with 10 blown out candles
+
 
 require "active_support/all"
 
